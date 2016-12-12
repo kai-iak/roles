@@ -1,5 +1,6 @@
 import {DemoCollection} from "../../../both/collections/demo.collection";
 import {Demo} from "../../../both/models/demo.model";
+import {Roles} from "meteor/alanning:roles";
 
 export class Main {
   start(): void {
